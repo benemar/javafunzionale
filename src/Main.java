@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("Uso delle espressioni lambda");
        // Calcolatrice --> somma
         CalcolatriceSharp calcolatrice =  new CalcolatriceSharp();
         int sum = calcolatrice.somma(10,8);
