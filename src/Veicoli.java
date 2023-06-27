@@ -35,10 +35,10 @@ public class Veicoli {
 
     @Override
     public String toString() {
-        return "Veicoli[" +
+        return "Veicoli{" +
                 "modello='" + modello + '\'' +
                 ", marca='" + marca + '\'' +
                 ", ibrida=" + ibrida +
-                ']';
+                '}';
     }
 }
